@@ -21,4 +21,5 @@ end
 
 
 --//For things like parts and lights, transparency is called by doing | part.Transparency = value 
+
 --//However, A Beam has to be changed by doing | beam.Transparency = NumberSequence.New(value)
