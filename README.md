@@ -14,7 +14,9 @@ some usefull things are stated below:
 
 for i,v in pairs(game.Workspace.BEAMSYSTEMFOLDERHERE:GetChildren())do
 --//This allows you to duplicate the model and it still work, an example is stated below:
+
 --//v.Motors.Pan.DesiredAngle = 1
+
 end
 
 
